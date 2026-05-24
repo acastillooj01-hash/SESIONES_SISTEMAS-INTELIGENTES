@@ -1,0 +1,3 @@
+processed_image:
+  type: text.TextDataset
+  filepath: data/03_primary/processed_image_path.txt
